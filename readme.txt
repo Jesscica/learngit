@@ -7,4 +7,4 @@ hello world
 11
 =======
 dd
->>>>>>> dev
+Creating a new branch is quick & simple.
